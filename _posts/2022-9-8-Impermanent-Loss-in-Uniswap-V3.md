@@ -23,10 +23,7 @@ $$
 The formula can also be written as:
 
 $$
-\begin{split}
-x=\sqrt{\frac{K}{P}}\\ 
-y=\sqrt{KP}\tag{1}
-\end{split}
+x=\sqrt{\frac{K}{P}},\ \ y=\sqrt{KP}\tag{1}
 $$
 ### Properties
 V2 has the following two properties.
@@ -212,6 +209,6 @@ Loss=\begin{cases}
 \end {split}
 $$
 See Figure of Loss in:
-<https://www.desmos.com/calculator/wuhyodthqq>
+<https://www.desmos.com/calculator/ivd2d0rems>
 
 
