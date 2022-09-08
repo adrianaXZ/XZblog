@@ -1,4 +1,5 @@
 # Impermanent Loss in Uniswap V3
+### Zelos
 
 Uniswap is a decentralized exchange with automated market making capabilities. Uniswap V2 extends the functionality to exchanges between any token pair. v2's liquidity provider provides liquidity at an exchange rate of $[0,∞)$. v3 allows the liquidity provider to set an arbitrary finite range of exchange rates and provide liquidity only within the range it sets. (also known as the liquidity function) to set the price of each transaction.
 
