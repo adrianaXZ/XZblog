@@ -1,3 +1,11 @@
+---
+toc: true
+layout: post
+description: The detailed derivation of the impermanent loss in Uniswap V3, prepared by Zelos, a forward-thinking blockchain lab.
+categories: [markdown]
+title: Impermanent Loss in Uniswap V3
+---
+
 # Impermanent Loss in Uniswap V3
 ### Zelos
 
